@@ -5,7 +5,7 @@ import MailOutlineIcon from "@mui/icons-material/MailOutline";
 
 const Hero = () => {
   const StyledHero = styled("div")(() => ({
-    backgroundColor: "black",
+    backgroundColor: "#eaeaea",
     height: "100vh",
   }));
 
